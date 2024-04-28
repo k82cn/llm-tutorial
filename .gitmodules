@@ -1,0 +1,3 @@
+[submodule "llama/llama3"]
+	path = llama/llama3
+	url = https://github.com/meta-llama/llama3
